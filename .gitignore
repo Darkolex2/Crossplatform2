@@ -1,1 +1,22 @@
+# Общие файлы
+bin/
+obj/
+*.log
+*.user
+*.suo
+*.pdb
+*.cache
+*.ide
 
+# Конфигурация IDE
+.vscode/
+.idea/
+
+# Пакеты NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
